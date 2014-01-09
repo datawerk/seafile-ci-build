@@ -1,0 +1,16 @@
+[submodule "seafile"]
+	path = seafile
+	url = https://github.com/haiwen/seafile.git
+	branch = master
+[submodule "ccnet"]
+	path = ccnet
+	url = https://github.com/haiwen/ccnet.git
+	branch = master
+[submodule "libsearpc"]
+	path = libsearpc
+	url = https://github.com/haiwen/libsearpc.git
+	branch = master
+[submodule "seahub"]
+	path = seahub
+	url = https://github.com/haiwen/seahub.git
+	branch = master
