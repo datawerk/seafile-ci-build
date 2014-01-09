@@ -14,3 +14,7 @@
 	path = seahub
 	url = https://github.com/haiwen/seahub.git
 	branch = master
+[submodule "seafile-client"]
+	path = seafile-client
+	url = https://github.com/haiwen/seafile-client.git
+	branch = master
