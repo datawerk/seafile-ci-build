@@ -1,7 +1,7 @@
 [submodule "seafile"]
 	path = seafile
 	url = https://github.com/haiwen/seafile.git
-	branch = master
+	branch = 2.1
 [submodule "ccnet"]
 	path = ccnet
 	url = https://github.com/haiwen/ccnet.git
@@ -13,4 +13,8 @@
 [submodule "seahub"]
 	path = seahub
 	url = https://github.com/haiwen/seahub.git
-	branch = master
+	branch = 2.1
+[submodule "seafile-client"]
+	path = seafile-client
+	url = https://github.com/haiwen/seafile-client.git
+	branch = 2.1
