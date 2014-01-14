@@ -1,6 +1,6 @@
 [submodule "seafile"]
 	path = seafile
-	url = https://github.com/haiwen/seafile.git
+url=https://github.com/datawerk/seafile.git
 	branch = master
 [submodule "ccnet"]
 	path = ccnet
