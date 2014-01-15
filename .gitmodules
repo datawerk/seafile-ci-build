@@ -1,10 +1,10 @@
 [submodule "seafile"]
 	path = seafile
-url=https://github.com/DATAWERK/seafile.git
+	url=https://github.com/DATAWERK/seafile.git
 	branch = master
 [submodule "ccnet"]
 	path = ccnet
-url=https://github.com/DATAWERK/ccnet.git
+	url=https://github.com/DATAWERK/ccnet.git
 	branch = master
 [submodule "libsearpc"]
 	path = libsearpc
