@@ -18,3 +18,7 @@ url=https://github.com/haiwen/ccnet.git
 	path = seafile-client
 	url = https://github.com/haiwen/seafile-client.git
 	branch = master
+[submodule "seadroid"]
+	path = seadroid
+	url = https://github.com/haiwen/seadroid.git
+	branch = master
